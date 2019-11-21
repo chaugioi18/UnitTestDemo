@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestLogic" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-11-21T08:14:27" hostname="pc-chau-nn-intelin" time="0.646">
+  <properties/>
+  <testcase name="testGetAccountList" classname="TestLogic" time="0.646"/>
+  <system-out><![CDATA[Start init singleton
+Start test get account list
+This is not null
+]]></system-out>
+  <system-err><![CDATA[ERROR StatusLogger No log4j2 configuration file found. Using default configuration: logging only errors to the console. Set system property 'org.apache.logging.log4j.simplelog.StatusLogger.level' to TRACE to show Log4j2 internal initialization logging.
+]]></system-err>
+</testsuite>
